@@ -18,9 +18,9 @@ body {
     body {
     background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;        
-    background-position-x: 50px, 550px;
-    background-position-y: -250px, 400px;
-    background-size: contain, contain;
+    background-position-x: -700px, 550px;
+    background-position-y: -950px, 300px;
+    background-size: cover, cover;
     
     }
 }
